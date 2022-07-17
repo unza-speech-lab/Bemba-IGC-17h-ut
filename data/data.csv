@@ -1,4 +1,4 @@
-image	sentence_id	image_id	audio_id	speaker_id	gender	duration	sample_rate	audio_format	recording_lang	native_lang	bem_transcription	eng_translation
+image	sentence_id	image_id	audio_id	speaker_id	gender	duration	sample_rate	audio_format	recording_lang	native_lang	bem_transcription	en_translation
 100_0	1	3720376242.jpg	"100_0_01_210929-011719_bem_72c_elicit_0.wav
 "	11	male	8.53	16000	vnd.wave	bem	bem	Ibumba lyabashitata nabeminina mumbali mumusebo	A group of men is standing on the roadside.
 100_1	2	3720376242.jpg	"100_1_02_210929-011803_bem_81c_elicit_0.wav
